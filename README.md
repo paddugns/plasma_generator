@@ -16,11 +16,12 @@ This project has several practical applications, including educational demonstra
 | 5 | Perf Board |
 
 ## Block Diagram
-![image](https://github.com/paddugns/plasma_generator/blob/e7c6da1dd809fc9ec1709c37d4c10d456a4c9168/B-Plasma.jpeg)
+<img width="406.4" height="508" alt="Plasma" src="https://github.com/paddugns/plasma_generator/blob/e7c6da1dd809fc9ec1709c37d4c10d456a4c9168/B-Plasma.jpeg" />
 
 ## Video Clip
 <a href="https://github.com/paddugns/plasma_generator/blob/e7c6da1dd809fc9ec1709c37d4c10d456a4c9168/V-Plasma.mp4">Plasma</a><br>
+<video width="1280" height="720" alt="Plasma" src="https://github.com/user-attachments/assets/9a35f266-019b-4129-a82c-b4c07a45b812" />
 
 ## Report
 #### You can access the report from the below link attached
-[Report.pdf](.pdf)<br>
+[Report.pdf](https://github.com/paddugns/plasma_generator/blob/332010485ba82b6988035b4f2e3a92f9938f0f1e/R-Plasma.pdf)<br>
